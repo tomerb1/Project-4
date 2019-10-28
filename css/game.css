@@ -1,0 +1,37 @@
+.header {
+    background-color: rgb(173, 230, 218);
+      padding: 20px;
+      border-bottom: 10px solid darkcyan;
+      color:darkcyan;
+      font-size: 1.5em;
+      text-align: center;
+}
+
+.img2 {
+    float:left;
+}
+
+
+.header img {
+    float:right;
+    width:100px;
+    height:100px;
+}
+
+.card {
+    background-color: pink;
+    height: 165px;
+    width: 165px;    
+    float: left;
+    margin: 5px;
+
+}
+
+.card img {
+    position: absolute;
+}
+
+.flipped .back {
+    display: none;
+}
+
